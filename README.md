@@ -1,7 +1,7 @@
-# 🌐 HYIP MAX
+# 🌐 STEPUP TRADER
 
 ## About
-HYIP MAX is an advanced, multilingual, and stable HYIP Investment Management Platform. It comes with features like deposits, withdrawals, investment plans, and referral commissions, and is fit for all kinds of devices. 📈💰📱
+STEPUP is an advanced, multilingual, and stable StepUp Investment Management Platform. It comes with features like deposits, withdrawals, investment plans, and referral commissions, and is fit for all kinds of devices. 📈💰📱
 
 ## 🚀 Features
 
